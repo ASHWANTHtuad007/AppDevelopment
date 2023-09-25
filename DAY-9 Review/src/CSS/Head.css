@@ -1,0 +1,14 @@
+/*--------head------------*/
+.head {
+    position: relative;
+    margin-left: 4%;
+    width: 95%;
+    padding: 20px 0;
+    color: #b21e1e;
+  }
+  .logo h1 {
+    font-size: 35px;
+    font-weight: 900;
+  }
+ 
+  /*--------head------------*/
